@@ -2,7 +2,7 @@
 
 /**
 	 Plugin Name: Slider
-	 Plugin URI: http://wordpress.org/plugins/hello-dolly/
+	 Plugin URI: https://github.com/harmancheema93/hsc-slider/
 	Description: A Slider plugin to show slider in the website.
 	Author: Harmandeep Singh
 	Version: 1.0
